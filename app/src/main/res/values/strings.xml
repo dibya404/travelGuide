@@ -1,0 +1,558 @@
+<resources>
+    <string name="app_name">TouristGuide
+
+    </string>
+    <string-array name="Country_names">
+        <item> Australia</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>Egypt</item>
+        <item>India</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Qatar</item>
+        <item>Srilanka</item>
+    </string-array>
+
+
+    <string name="aussiespots">
+        Tourist Spots:\n
+        1. Great Barrier Reef\n
+        2. Sydney Harbour brigde\n
+        3. Uluru\n
+        3. Great Ocean Road\n
+
+</string>
+    <string name="bdTouristSpot">
+        Tourist Spots:\n
+        1. Coxs Bazar\n
+        2. Sundarbans\n
+        3. Saint Martin\n
+        3. Nilgiri,Bandorban\n
+
+</string>
+    <string name="canadaspots">
+        Tourist Spots:\n
+        1. Stanley Park\n
+        2. CN Tower\n
+        3. Moraine Lake\n
+        3. Banff National Park\n
+
+</string>
+    <string name="denmarkspots">
+        Tourist Spots:\n
+        1. Tivoli Gardens\n
+        2. Nyhavn\n
+        3. The Little Mermaid\n
+        3. Amalienborg\n
+
+</string>
+    <string name="egyptspots">
+         Tourist Spots:\n
+        1. Giza Necropolis\n
+        2. Great Sphinx of Giza\n
+        3. Valley of The Kings\n
+        3. Egyptian Musuem\n
+
+</string>
+    <string name="indiaspots">
+         Tourist Spots:\n
+        1. The Taj Mahal, Agra\n
+        2. The Holy City of Varanasi\n
+        3. Harmandir Sahib: The Golden Temple of Amritsar\n
+        4. The Beaches of Goa\n
+        5. Periyar National Park and Wildlife Sanctuary, Madurai\n
+
+</string>
+    <string name="malaysiaspots">
+        Tourist Spots:\n
+        1. Gunung Mulu National Park\n
+        2. Langkawi\n
+        3. Taman Negara\n
+        4. Cameron Highlands\n
+</string>
+    <string name="nepalspots">
+        Tourist Spots:\n
+        1. Great Barrier Reef\n
+        2. Sydney Harbour brigde\n
+        3. Uluru\n
+        3. Great Ocean Road\n
+
+</string>
+    <string name="newzealandspots">
+       Tourist Spots:\n
+        1. Milford Sound\n
+        2. Bay of Islands\n
+        3. Tongariro Alpine Crossing\n
+        3. Great Ocean Road\n
+</string>
+    <string name="qatarspots">
+       Tourist Spots:\n
+        1. The Museum of Islamic Art, Doha\n
+        2. The Corniche, Doha\n
+        3. Al- Zubarah, Northwest of Qatar\n
+        3. Qatar National Museum, Doha\n
+
+</string>
+    <string name="srilankaspots">
+        Tourist Spots:\n
+        1. Yala National Park\n
+        2. Dambulla Cave Temple\n
+        3. Sigiriya Rock Fortress\n
+        4. Ancient City of Polonnaruwa\n
+
+
+</string>
+
+    <string name="aussietravelsite">
+        Travel path \n
+    website:https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-australia.aspx\n
+    </string>
+
+    <string name="bdtravelsite">
+        Travel path \n
+    website:https://www.shohoz.com \n
+    </string>
+    <string name="canadatravelsite">
+        Travel path \n
+    website:https://https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-canada.aspx \n
+    </string>
+    <string name="denmarktravelsite">
+        Travel path \n
+    website:https://https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-denmark.aspx \n
+    </string>
+    <string name="egypttravelsite">
+        Travel path \n
+    website:https://https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-egypt.aspx \n
+    </string>
+    <string name="indiatravelsite">
+        Travel path \n
+        website:https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-india.aspx\n
+        website:https://www.flynovoair.com/ \n
+    </string>
+    <string name="malaysiatravelsite">
+        Travel path \n
+        website:https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-malaysia.aspx\n
+
+    </string>
+    <string name="newzealandtravelsite">
+        Travel path \n
+        website:https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-new-zealand.aspx\n
+
+    </string>
+    <string name="qatartravelsite">
+        Travel path \n
+        website:https://www.biman-airlines.com/guide/ME/DOH\n
+
+    </string>
+    <string name="srilankatravelsite">
+        Travel path \n
+        website:https://www.emirates.com/bd/english/destinations/flights-from-dhaka-to-sri-lanka.aspx\n
+
+    </string>
+
+    <string name="aussiehotels">
+        Tourist Spots:\n
+        1. Great Barrier Reef\n
+        Hotels\n
+        website:https://www.hotelscombined.com/Place/Great_Barrier_Reef.htm\n
+        website:https://www.wotif.com/Great-Barrier-Reef-Hotels.0-l6061129-0.Travel-Guide-Filter-Hotels\n
+        2. Sydney Harbour brigde\n
+        Hotels\n
+        website:https://www.wotif.com/Sydney-Harbour-Bridge-Hotels.0-l508804-0.Travel-Guide-Filter-Hotels\n
+        website:https://www.hotels.com/de26419/hotels-near-sydney-harbour-bridge-sydney-australia/\n
+        website:https://www.tripadvisor.com/HotelsNear-g255060-d257355-Sydney_Harbour_Bridge-Sydney_New_South_Wales.html\n
+        3. Uluru\n
+        Hotels\n
+        website:https://www.agoda.com/city/ayers-rock-uluru-au.html?cid=-218\n
+        website:https://www.tripadvisor.com/HotelsNear-g256205-d256763-Uluru-Uluru_Kata_Tjuta_National_Park_Red_Centre_Northern_Territory.html\n
+        website:https://www.booking.com/city/au/ayers-rock.html\n
+        4. Great Ocean Road\n
+        Hotels\n
+        website:https://www.booking.com/region/au/great-ocean-road.html\n
+        website:https://www.trivago.com.au/great-ocean-road-575880/hotel\n
+        website:https://www.tripadvisor.com/Hotels-g2269364-Great_Ocean_Road_Victoria-Hotels.html\n
+
+</string>
+    <string name="bdhotels">
+      1.  Cox’s Bazar: The Longest Sea Beach In The World\n
+    Hotels \n
+    website:https://hotelthecoxtoday.com \n
+    website:https://royal-tulip-cox-s-bazar.goldentulip.com \n
+    website:http://neeshorgo.com/ \n
+    website:https://www.tripadvisor.com \n
+    2. Saint Martin : Only Coral Island In Bangladesh\n
+    Hotels \n
+    website:https://tour.com.bd/hotels/bangladesh/saint-martin/dream-night-resort-saint-martain \n
+    website:https://www.tripadvisor.com/Hotel_Review-g3396905-d7209255-Reviews-Neel_Digante_Resort-Saint_Martin_s_Island_Chittagong_Division.html \n
+    website:https://www.tripadvisor.com/Hotel_Review-g3396905-d12159960-Reviews-Sunset_Serenity_Resort-Saint_Martin_s_Island_Chittagong_Division.html \n
+    3. Nilgiri, Bandorban – The Highest Hill Resort Of Bangladesh\n
+    Hotels \n
+    Website:http://www.plazabandarban.com \n
+    Website:http://hotelhillviewbandarban.com \n
+    website:https://www.nightheavenbd.com \n
+    website:https://hotelmotel.bangladeshinformation.info/hotel-paharika-bandarban \n
+
+    4. Sundarban : The Largest Mangrove Forest In The World\n
+    Hotels \n
+    Website:http://www.sundarbantours.com/search/rivers-of-sundarban \n
+    </string>
+    <string name="canadahotels">
+        Tourist Spots:\n
+        1. Stanley Park\n
+         Hotels \n
+         Website:https://www.wotif.com/Stanley-Park-Hotels.0-l507172-0.Travel-Guide-Filter-Hotels\n
+         Website:https://www.tripadvisor.com.au/HotelsNear-g2281857-d11117138-Stanley_Park-Mount_Macedon_Macedon_Ranges_Victoria.html\n
+         Website:https://www.expedia.com.au/Stanley-Park-Hotels.0-l507172-0.Travel-Guide-Filter-Hotels\n
+        2. CN Tower\n
+          Hotels \n
+         Website:https://www.expedia.com/CN-Tower-Hotels.0-l503147-0.Travel-Guide-Filter-Hotels\n
+         Website:https://www.wotif.com/CN-Tower-Hotels.0-l503147-0.Travel-Guide-Filter-Hotels\n
+         Website:https://www.expedia.com/CN-Tower-Hotels.0-l503147-0.Travel-Guide-Filter-Hotels\n
+        3. Moraine Lake\n
+          Hotels \n
+         Website:https://www.expedia.com/Moraine-Lake-Hotels.0-l6260950-0.Travel-Guide-Filter-Hotels\n
+         Website:https://www.wotif.com/Moraine-Lake-Hotels.0-l6260950-0.Travel-Guide-Filter-Hotels\n
+         Website:https://www.expedia.com/Moraine-Lake-Hotels.0-l6260950-0.Travel-Guide-Filter-Hotels\n
+        3. Banff National Park\n
+         Hotels \n
+         Website:https://www.tripadvisor.com/Hotels-g154910-Banff_National_Park_Alberta-Hotels.html\n
+         Website:https://www.booking.com/region/ca/banff-national-park.html\n
+         Website:https://www.expedia.com/Banff-National-Park-Hotels.d602291.Travel-Guide-Hotels\n
+</string>
+    <string name="denmarkhotels">
+        Tourist Spots:\n
+        1. Tivoli Gardens\n
+        Hotels \n
+        Wesite:https://www.tripadvisor.com/HotelsNear-g189541-d197738-Tivoli_Gardens-Copenhagen_Zealand.html\n
+        Wesite:https://www.tivolihotel.com/family-leisure/tivoli-gardens/\n
+        2. Nyhavn\n
+        Hotels \n
+      Wesite:https://www.hotels.com/de1716934/hotels-near-nyhavn-copenhagen-denmark/\n
+        3. The Little Mermaid\n
+        Hotels \n
+        Wesite:https://www.tripadvisor.com/HotelsNear-g189541-d245024-The_Little_Mermaid_Den_Lille_Havfrue-Copenhagen_Zealand.html\n
+        Wesite:https://www.hotels.com/de1634134/hotels-near-little-mermaid-copenhagen-denmark/\n
+        3. Amalienborg\n
+        Hotels \n
+        Wesite:https://www.hotels.com/nh1742223/hotels-in-nyhavn-amalienborg-copenhagen-denmark/\n
+</string>
+<string name="egypthotelss">
+         Tourist Spots:\n
+        1. Giza Necropolis\n
+         Hotels \n
+         Website:https://www.tripadvisor.com/Hotels-g294202-Giza_Giza_Governorate-Hotels.html\n
+         Website:https://www.tripadvisor.com/HotelsNear-g294202-d317746-Pyramids_of_Giza-Giza_Giza_Governorate.html\n
+        2. Great Sphinx of Giza\n
+          Hotels \n
+         Website:https://www.tripadvisor.com/HotelsNear-g294202-d308830-Great_Sphinx-Giza_Giza_Governorate.html\n
+         Website:https://www.hotels.com/de1656448/hotels-near-great-sphinx-of-giza-giza-egypt/\n
+         Website:https://www.expedia.com/Great-Sphinx-Of-Giza-Hotels.0-l6073069-0.Travel-Guide-Filter-Hotels\n
+        3. Valley of The Kings\n
+          Hotels \n
+         Website:https://www.hotelscombined.com/Place/Valley_of_the_Kings.htm\n
+         Website:https://www.tripadvisor.com/HotelsNear-g294205-d321166-Valley_of_the_Kings-Luxor_Nile_River_Valley.html\n
+         Website:https://www.agoda.com/hotels-near-valley-of-the-kings/attractions/luxor-eg.html?cid=-218\n
+        3. Egyptian Musuem\n
+            Hotels \n
+         Website:https://www.booking.com/landmark/eg/the-egyptian-museum.en-gb.html\n
+         Website:https://www.tripadvisor.com/HotelsNear-g294201-d308825-Egyptian_Antiquities_Museum-Cairo_Cairo_Governorate.html\n
+         Website:https://www.hotels.com/de1656457/hotels-near-egyptian-museum-cairo-egypt/\n
+</string>
+    <string name="indiahotels">
+         Tourist Spots:\n
+        1. The Taj Mahal, Agra\n
+        Hotels \n
+        Website:https://www.tripadvisor.com/HotelsNear-g297683-d317329-Taj_Mahal-Agra_Agra_District_Uttar_Pradesh.html\n
+        Website:https://www.goibibo.com/hotels/hotels-in-agra/near-taj-mahal/\n
+        Website:https://www.hotels.com/de1680756/hotels-near-taj-mahal-agra-india/\n
+        2. The Holy City of Varanasi\n
+        Hotels \n
+        Website:https://www.tripadvisor.com/Hotels-g297685-Varanasi_Varanasi_District_Uttar_Pradesh-Hotels.html\n
+        Website:https://www.makemytrip.com/hotels/holy_city_pg_house-details-varanasi.html\n
+        Website:https://www.agoda.com/city/varanasi-in.html?cid=-218\n
+        3. Harmandir Sahib: The Golden Temple of Amritsar\n
+        Hotels \n
+        Website:https://www.tripadvisor.com/HotelsNear-g303884-d12687575-Golden_Temple_Sri_Harmandir_Sahib-Amritsar_Amritsar_District_Punjab.html\n
+        Website:https://www.oyorooms.com/hotels-near-harmandir-sahib-amritsar/\n
+        Website:https://www.yatra.com/hotels/hotels-near-holy-harmandir-sahib-in-amritsar\n
+        4. The Beaches of Goa\n
+        Hotels \n
+        Website:https://www.tripadvisor.com/Hotels-g297604-zff10-Goa-Hotels.html\n
+        Website:https://www.hotels.com/de679086-th6/beach-hotels-goa-india/\n
+        Website:https://www.booking.com/beach/region/in/goa.en-gb.html\n
+        5. Periyar National Park and Wildlife Sanctuary, Madurai\n
+        Hotels \n
+        Website:https://www.indianholiday.com/hotels/muthoot-cardamom-county-hotel-thekkady.html\n
+        Website:https://www.indianholiday.com/hotels/shalimar-gardens-periyar.html\n
+        Website:https://www.indianholiday.com/hotels/niraamaya-retreats-cardamom-club-thekkady.html\n
+
+</string>
+    <string name="malaysiahotelss">
+        Tourist Spots:\n
+        Hotels:\n
+        1. Gunung Mulu National Park\n
+        Website:https://www.tripadvisor.com/Hotels-g1483707-Gunung_Mulu_National_Park_Sarawak-Hotels.html\n
+        Website:https://www.expedia.com/Gunung-Mulu-National-Park-Hotels.0-l6131379-0.Travel-Guide-Filter-Hotels\n
+        Website:https://www.lonelyplanet.com/malaysia/gunung-mulu-national-park/hotels/a/lod/356976\n
+        2. Langkawi\n
+         Website:https://www.tripadvisor.com/Hotels-g298283-Langkawi_Langkawi_District_Kedah-Hotels.html\n
+        Website:http://www.langkawi-info.com/hotels/toptenhotels.htm\n
+        Website:https://www.agoda.com/city/langkawi-my.html?cid=-218\n
+        3. Taman Negara\n
+         Website:https://www.tripadvisor.com/Hotels-g676097-Taman_Negara_National_Park-Hotels.htmlhttps://www.tripadvisor.com/Hotels-g676097-Taman_Negara_National_Park-Hotels.html\n
+        Website:https://www.mutiaratamannegara.com/\n
+        Website:http://www.tamannegara.asia/accommodations/\n
+        4. Cameron Highlands\n
+         Website:https://www.tripadvisor.com/Hotels-g298292-Cameron_Highlands_Pahang-Hotels.html\n
+        Website:https://www.trivago.com.my/cameron-highlands-94597/hotel\n
+        Website:https://www.agoda.com/city/cameron-highlands-my.html?cid=-218\n
+</string>
+    <string name="newzealandhotels">
+       Tourist Spots:\n
+        Hotels:\n
+        1. Milford Sound\n
+        Website:https://www.milfordlodge.com/\n
+        Website:https://www.tripadvisor.com/Hotels-g255121-Milford_Sound_Southland_Region_South_Island-Hotels.html\n
+        Website:https://www.expedia.com/Milford-Sound-Hotels.0-l6110756-0.Travel-Guide-Filter-Hotels\n
+        2. Bay of Islands\n
+           Website:https://www.tripadvisor.com/Hotels-g580533-Bay_of_Islands_Northland_Region_North_Island-Hotels.html\n
+        Website:https://www.wotif.com/Bay-Of-Islands-Hotels.d6024124.Travel-Guide-Hotels\n
+        Website:https://www.scenichotelgroup.co.nz/locations/new-zealand/paihia/scenic-hotel-bay-of-islands\n
+        3.Tongariro Alpine Crossing\n
+           Website:https://www.tripadvisor.com/HotelsNear-g616351-d258212-Tongariro_Alpine_Crossing-Tongariro_National_Park_Manawatu_Wanganui_Region_North_Island.html\n
+        Website:https://www.expedia.com/Tongariro-Alpine-Crossing-Hotels.0-l6293955-0.Travel-Guide-Filter-Hotels\n
+        Website:https://www.hotels.com/de1784186/hotels-near-tongariro-alpine-crossing-tongariro-national-park-new-zealand/\n
+        3.Wai-o-tapu\n
+           Website:https://www.tripadvisor.com/HotelsNear-g255111-d258116-Wai_O_Tapu_Thermal_Wonderland-Rotorua_Rotorua_District_Bay_of_Plenty_Region_North_Island.html\n
+        Website:https://www.hotels.com/de10628371/hotels-near-wai-o-tapu-thermal-wonderland-waiotapu-new-zealand/\n
+        Website:https://www.expedia.com/Waiotapu-Hotels.d6353176.Travel-Guide-Hotels\n
+</string>
+    <string name="qatarhotels">
+       Tourist Spots:\n
+        Hotels:\n
+        1. The Museum of Islamic Art, Doha\n
+        Website:https://www.tripadvisor.com/HotelsNear-g294009-d2002190-Museum_of_Islamic_Art-Doha.html\n
+        Website:https://www.expedia.com/Museum-Of-Islamic-Art-Hotels.0-l6116598-0.Travel-Guide-Filter-Hotels\n
+        2. The Corniche, Doha\n
+        Website:https://www.tripadvisor.com/HotelsNear-g294009-d321181-The_Corniche-Doha.html\n
+        Website:https://www.hotels.com/de1912608/hotels-near-doha-corniche-doha-qatar/\n
+        Website:https://www.agoda.com/hotels-near-corniche/attractions/doha-qa.html?cid=-218\n
+        3. Al- Zubarah, Northwest of Qatar\n
+        Website:https://www.tripadvisor.com/Attraction_Review-g3953984-d3953989-Reviews-Al_Zubara_Fort-Madinat_Ash_Shamal.html\n
+        Website:https://www.zubarahhotels.com/\n
+        Website:https://www.kempinski.com/en/doha/residences/local-information/al-zubarah-fort/\n
+        3. Qatar National Museum, Doha\n
+        Website:https://www.expedia.com/Qatar-National-Museum-Hotels.0-l6116608-0.Travel-Guide-Filter-Hotels\n
+        Website:https://www.tripadvisor.com/HotelsNear-g294009-d321043-National_Museum_of_Qatar-Doha.html\n
+        Website:https://www.agoda.com/hotels-near-qatar-national-museum/attractions/doha-qa.html?cid=-218\n
+
+</string>
+    <string name="srilankahotels">
+        Tourist Spots:\n
+        Hotels:\
+        1. Yala National Park\n
+        Website:https://www.tripadvisor.com/Hotels-g612381-Yala_National_Park-Hotels.html\n
+        Website:http://yalasafariholidays.com/hotel_based_safaris_in_yala.php\n
+        Website:https://www.agoda.com/city/yala-lk.html?cid=-218\n
+        2. Dambulla Cave Temple\n
+        Website:https://www.tripadvisor.com/HotelsNear-g665220-d12921436-Dambulla_Cave_Temple-Habarana_North_Central_Province.html\n
+        Website:https://uk.hotels.com/de1672877/hotels-near-dambulla-cave-temple-matale-district-sri-lanka/\n
+        Website:https://www.agoda.com/hotels-near-dambulla-cave-temple/attractions/sigiriya-lk.html?cid=-218\n
+        3. Sigiriya Rock Fortress\n
+        Website:https://www.agoda.com/hotels-near-sigiriya-rock-fortress/attractions/sigiriya-lk.html?cid=-218\n
+        Website:https://www.serendibleisure.com/hotelsigiriya/location/\n
+        Website:https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g304141-d613020-i61115377-Hotel_Sigiriya-Sigiriya_Central_Province.html\n
+        4. Ancient City of Polonnaruwa\n
+        Website:https://www.trivago.com/polonnaruwa-313/city-districts/ancient-city-of-polonnaruwa-2936640\n
+        Website:https://www.tripadvisor.com/ShowUserReviews-g304140-d7361962-r335459533-Ruins_Chaaya_Hotel-Polonnaruwa_North_Central_Province.html\n
+        Website:https://www.trivago.com.my/polonnaruwa-313/city-districts/ancient-city-of-polonnaruwa-2936640\n
+
+
+</string>
+    <string name="australia">
+Australia:\n
+1. Australia is one of the most is developed country.\n
+2. Area is 7.692 million km2  and population is 24.6 million\n
+3. GDP(Gross domestic product) is 1.323 trillion USD\n
+4. Per capita income is 45,780 PPP dollars\n
+5. The main followed religion is Christianity.\n
+6. Literacy rate is 99%.\n
+7. Main language is English.But also Mandarin is practiced.\n
+8. Capital is Canberra.\n
+9. The Australian Dollar is the currency of Australia. 1 Australian Dollar equals\n
+        0.71 United States Dollar.\n
+
+10. Dialing code/Calling code is +61.\n
+
+11. Crime rate has decreased upto 10% in 2017-18.\n
+    </string>
+    <string name="bangladesh">
+Bangladesh:\n
+1. Bangladesh is a developing country.\n
+2. Area is 147,570km2  and population is 164.7 million\n
+3. GDP(Gross domestic product) is 249.7 billion USD\n
+4. Per capita income is 4,040 PPP dollars\n
+5. The main followed religion is Islam.But there is also practice of Hinduism.\n
+6. Literacy rate is 72.89%.\n
+7. Main language is Bengali.But also English is practiced.\n
+8. Capital is Dhaka.\n
+9. The Bangladeshi Taka is the currency of Bangladesh(BDT). 1 Bangladeshi Taka equals\n
+        0.012 United States Dollar.\n
+
+10. Dialing code/Calling code is +880.\n
+
+11. Crime rate is 71.98.\n
+    </string>
+    <string name="canada">
+Canada:\n
+1. Canada is a developed country.\n
+2. Area is 9.985 million km2  and population is 37.06 million\n
+3. GDP(Gross domestic product) is 1.653 trillion USD\n
+4. Per capita income is 45,750 PPP dollars\n
+5. The main followed religion is Christianity.\n
+6. Literacy rate is 99%.\n
+7. Main language is English.But also French is practiced.\n
+8. Capital is Ottawa.\n
+9. The Canadian Dollar is the currency of Canada. 1 Canadian Dollar equals\n
+        0.75 United States Dollar.\n
+
+10. Dialing code/Calling code is +1.\n
+
+11. Crime rate has decreased upto 30% in 2017-18.\n
+    </string>
+    <string name="denmark">
+Denmark:\n
+1. Denmark is considered to be one of the most economically and socially developed countries in the world.\n
+2. Area is 42,933 km2  and population is 5.749 million\n
+3. GDP(Gross domestic product) is 324.9 billion USD\n
+4. Per capita income is 51, 560 PPP dollars\n
+5. The main followed religion is Christianity.\n
+6. Literacy rate is 99%.\n
+7. Main language is Danish.But also English is practiced.\n
+8. Capital is Copenhagen.\n
+9. The Danish krone is the currency of Denmark(DKK). 1 Danish krone equals\n
+        0.15 United States Dollar.\n
+
+10. Dialing code/Calling code is +45.\n
+
+11. In 2012, Denmark had a murder rate of 0.8 per 100,000 population.\n
+    </string>
+    <string name="egypt">
+Egypt:\n
+1. Egypt is one of the most developed countries in the Africa.\n
+2. Area 1.01 million is  km2  and population is 97.55 million\n
+3. GDP(Gross domestic product) is 235.4 billion USD\n
+4. Per capita income is 11, 360 PPP dollars\n
+5. The main followed religion is Islam.But Christianity is also practiced.\n
+6. Literacy rate is 75.84%.\n
+7. Main language is Arabic.But also English is practiced.\n
+8. Capital is Caira.\n
+9. The Egyptian Pound is the currency of Egypt. 1 Egyptian Pound equals\n
+        0.058 United States Dollar.\n
+
+10. Dialing code/Calling code is +20.\n
+
+11. Crime rate is 50.48(Moderate).\n
+    </string>
+
+    <string name="india">
+      India:\n
+
+1. India is a developing country.\n
+2. Area is 3.287 million km2  and population is 1.339 billion\n
+3. GDP(Gross domestic product) is 2.597 trillion USD\n
+4. Per capita income is 7,060 PPP dollars\n
+5. The main followed religion is Hinduism.But there is also practice of Islam,Christianity,Sikhism, Buddhism, Jainism etc.\n
+6. Literacy rate is 74.04%.\n
+7. Main language is Hindi.But also Gujarati,Hindustani,Bengali,Punjabi,Urdu,Sindhi,Telugu,Kannda,Sanskrit,Tamil,Malayalam,Maithili,English is practiced.\n
+8. Capital is New Delhi.\n
+9. The Indian Rupee is the currency of India(INR). 1 Rupee equals\n
+0.014 United States Dollar.\n
+
+10. Dialing code/Calling code is +91.\n
+
+11. India has many states.The highest crime rate is in Delhi which is 974.9(per 100,000 person).\n
+
+    </string>
+    <string name="malaysia">
+      Malaysia:\n
+
+1. Malaysis is a developing country.\n
+2. Area is 330,803 km2  and population is 31.62 million\n
+3. GDP(Gross domestic product) is 314.5 billion USD\n
+4. Per capita income is 28,650 PPP dollars\n
+5. The main followed religion is Islam.But there is also practice of Christianity,Hinduism, Buddhism etc.\n
+6. Literacy rate is 93.12%.\n
+7. Main language is Malay.But also English is practiced.\n
+8. Capital is Kuala Lampur.\n
+9. The Malaysian ringgit is the currency of Malaysia. 1 Malaysian ringgit equals\n
+0.24 United States Dollar.\n
+
+10. Dialing code/Calling code is +60.\n
+
+11. Malaysia has a crime rate of 63.33(High).\n
+
+    </string>
+    <string name="newzwaland">
+      New Nealand:\n
+
+1. New Zealand is a developed country.\n
+2. Area is 268,021 km2  and population is 4.794 million\n
+3. GDP(Gross domestic product) is 205.9 billion USD\n
+4. Per capita income is 39,560 PPP dollars\n
+5. The main followed religion is Christianity.\n
+6. Literacy rate is around 99%.\n
+7. Main language is English.But also Maori is practiced.\n
+8. Capital is Wellington.\n
+9. The New Zealand dollar is the currency of New Zealand. 1 New Zealand dollar equals\n
+0.68 United States Dollar.\n
+
+10. Dialing code/Calling code is +64.\n
+
+11. New Zealand has a crime rate of around 41%.\n
+
+    </string>
+    <string name="qatar">
+      Qatar:\n
+
+1. Qatar is a developing country.\n
+2. Area is 11,571 km2  and population is 2.639 million\n
+3. GDP(Gross domestic product) is 167.6 billion USD\n
+4. Per capita income is 128,060 PPP dollars\n
+5. The main followed religion is Islam.\n
+6. Literacy rate is around 97.75%.\n
+7. Main language is Arabic.But also English is practiced.\n
+8. Capital is Doha.\n
+9. The Qatari riyal is the currency of Qatar. 1 Qatari riyal equals\n
+0.27 United States Dollar.\n
+
+10. Dialing code/Calling code is +974.\n
+
+11. Qatar has a low crime rate.\n
+
+    </string>
+
+    <string name="srilanka">
+        Srilanka:\n
+1. Srilanka is a developing country but it is expected to be the 1st developed country in south asia.\n
+2. Area is 65,610km2  and population is 21.44 million\n
+3. GDP(Gross domestic product) is 87.17 billion USD\n
+4. Per capita income is 12,470 PPP dollars\n
+5. The main followed religion is Theravada Buddhism.But there is also practice of Hinduism,Christianity and Islam.\n
+6. Literacy rate is 92%.\n
+7. Main language is Sinhala.But also Tamil and English is practiced.\n
+8. Capital is Colombo.\n
+9. The Srilankan Rupee is the currency of Srilanka(LKR). 1 Rupee equals\n
+0.0056 United States Dollar.\n
+
+10. Dialing code/Calling code is +94.\n
+
+11. Crime rate is 40.54.\n
+
+
+    </string>
+
+
+</resources>
